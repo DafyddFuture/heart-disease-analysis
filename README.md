@@ -31,4 +31,8 @@ It is not a clinical diagnostic tool or a prediction of future disease.
 
 ## Status
 
-Project setup in progress.
+Data audit, exploratory analysis, model evaluation and Tableau dashboard completed.
+
+## Interactive dashboard
+
+[View the Heart Disease Model Evaluation dashboard on Tableau Public](https://public.tableau.com/app/profile/dafydd.jones2594/viz/HeartDiseaseClassificationModelEvaluation/HeartDiseaseModelEvaluation)
